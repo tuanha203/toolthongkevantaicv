@@ -1,0 +1,249 @@
+[33mcommit 60a7379391f7ef808532cfd49a5bc9ec84243bc9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hà Hoàng Tuấn <tuanha.211101@gmail.com>
+Date:   Mon Jul 26 22:39:05 2021 +0700
+
+    as
+
+[33mcommit 030229d92ca0bd5dfd3da460f3044dc53e02dc0e[m
+Author: Hà Hoàng Tuấn <tuanha.211101@gmail.com>
+Date:   Sun Jul 25 11:42:22 2021 +0700
+
+    ds
+
+[33mcommit e583aca1e0a6ea5f60393872a73a6bf775065976[m
+Author: Hà Hoàng Tuấn <tuanha.211101@gmail.com>
+Date:   Sat Jul 24 14:41:31 2021 +0700
+
+    sd
+
+[33mcommit f34973691982bce9e2465b33c28092801fc55d7a[m
+Author: Hà Hoàng Tuấn <tuanha.211101@gmail.com>
+Date:   Sat Jul 24 08:24:34 2021 +0700
+
+    ok
+
+[33mcommit 8d014ffd222c3e2b821cd9ca56c784c357a3b785[m
+Author: Hà Hoàng Tuấn <tuanha.211101@gmail.com>
+Date:   Sat Jul 24 05:58:00 2021 +0700
+
+    ok
+
+[33mcommit 6406f6af169b20cee86adc053425979a6999775a[m[33m ([m[1;33mtag: 3.2.1[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Mar 30 17:40:37 2021 +0200
+
+    chore: 3.2.1 release
+
+[33mcommit 3876016f81e15427cbcfb4e5f4168de438335f92[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Tue Mar 30 17:39:52 2021 +0200
+
+    chore: dependencies update - closes #294
+
+[33mcommit 9d5ba97b4d7ab7d2adbb09b8a2c74d4f00fadbcc[m[33m ([m[1;33mtag: 3.2.0[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:13:12 2020 +0100
+
+    chore: 3.2.0 release for React 17
+
+[33mcommit f3f91c5d721754a2dac26143f312415c94c7ed68[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:12:10 2020 +0100
+
+    test: refactor, import temp update
+
+[33mcommit ed83c9a3d4199b8c6566a6e01396cdcbca80cf42[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:11:09 2020 +0100
+
+    fix(_nav): no anonymous default export
+
+[33mcommit f0c05858329430c9487bdcfcf36d0aa98f60776d[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:09:23 2020 +0100
+
+    fix(BrandButtons): minor temp fixes with stylings
+
+[33mcommit 9522ade1f1eb2c5a26d5208fe6e44be803123bd2[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:08:27 2020 +0100
+
+    refactor: polyfills cleanup
+
+[33mcommit f6a710ffd6996c9b6b026b8eebed6ff390757fe1[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Mon Dec 14 18:04:35 2020 +0100
+
+    chore: React 17 and dependencies update
+
+[33mcommit f9f19274f046cf5f11f68d6c7eb7ae04c553f219[m[33m ([m[1;33mtag: 3.1.1[m[33m)[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Nov 26 22:39:21 2020 +0100
+
+    chore: changelog update
+
+[33mcommit 081b957291a8020e3d2e3b42c1f0a1455a49c524[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Nov 26 22:36:55 2020 +0100
+
+    chore: 3.1.1 release
+
+[33mcommit ba21e001944322fb48e43264719b94368c589732[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Nov 26 22:29:50 2020 +0100
+
+    chore: .gitignore cleanup
+
+[33mcommit 5b70904d8f22f61a71def3306ea96ad640573c39[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Thu Nov 26 22:29:17 2020 +0100
+
+    chore: dependencies update
+    
+        "@coreui/coreui": "^3.4.0",
+        "@coreui/icons": "^2.0.0-rc.0",
+        "@coreui/react": "^3.3.4",
+        "core-js": "^3.8.0",
+        "enzyme-adapter-react-16": "^1.15.5",
+        "react": "^16.14.0",
+        "react-app-polyfill": "^2.0.0",
+        "react-dom": "^16.14.0",
+        "react-redux": "^7.2.2",
+        "auto-changelog": "~2.2.1",
+        "react-scripts": "~4.0.1"
+
+[33mcommit b661344485a38404b8c2b1326e3a4258009b071c[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Thu Aug 13 15:03:37 2020 +0200
+
+    chore: add migration docs
+
+[33mcommit 6ac9a1d094d4d293ddacb3f3562216a98be8e129[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 17:11:10 2020 +0200
+
+    chore: limit changelog to version 3
+
+[33mcommit de605cc1aadec9fb066625c6bc7b656590efc7bb[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 17:08:24 2020 +0200
+
+    chore: add changelog
+
+[33mcommit cd2393161243266189ca318f31a42dbc51f60e35[m[33m ([m[1;33mtag: 3.1.0[m[33m)[m
+Merge: 92f55b8 b7d8029
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 17:05:10 2020 +0200
+
+    Merge branch 'master' of https://github.com/coreui/coreui-free-react-admin-template
+
+[33mcommit 92f55b8cdfd748a9e72649d5da62b93015a1c8e6[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 17:03:43 2020 +0200
+
+    chore: 3.1.0 release - update dependencies
+
+[33mcommit b31e452fd0ea736763d3032d7204cd478863b505[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 16:57:49 2020 +0200
+
+    feat: add CSwitch examples to forms
+
+[33mcommit eef84dbbd770c7253080a6f69443c40e4fecefd2[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Aug 12 15:50:40 2020 +0200
+
+    refactor: add reusable folder with DocsLink component
+
+[33mcommit be5d1f0618f981f18c45be87afb56c4409bd3389[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Thu Jul 30 12:37:29 2020 +0200
+
+    refactor: add CIcon example in _nav.js
+
+[33mcommit 68ce41db6831d6995121766a5771dc9d667cc61a[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Thu Jul 30 12:32:59 2020 +0200
+
+    fix: fix template testing
+
+[33mcommit b7d80299583cd1aa82000fcabaac910967f68f5e[m
+Author: Shailesh Ladumor <shaileshmladumor@gmail.com>
+Date:   Thu Jun 25 13:49:46 2020 +0530
+
+    docs(readme): CoreUI react theme setup with laravel tutorial link add into readme (#226)
+
+[33mcommit 52163bbf8f1831e14f2b7a647c4854ade3c990ed[m[33m ([m[1;33mtag: 3.0.0[m[33m)[m
+Merge: fd5236d db85786
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Jun 17 15:45:39 2020 +0200
+
+    Merge branch 'master' of https://github.com/coreui/coreui-free-react-admin-template
+
+[33mcommit fd5236d47340b336bf641041cbf6d48ec8b1081a[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Jun 17 15:45:12 2020 +0200
+
+    chore: 3.0.0 version release - update dependencies
+
+[33mcommit db85786be465fdb7a84b7337dbe876afc5e957bc[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jun 10 15:10:20 2020 +0200
+
+    docs: add license
+
+[33mcommit 82a4351daa6c8d452e19c7141dbadecc3f721c1b[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jun 10 14:53:18 2020 +0200
+
+    docs: README cleanup
+
+[33mcommit 188e0b1c09fd7d47dc87d0410303ae43e8ee79de[m
+Author: xidedix <xidedix@users.noreply.github.com>
+Date:   Wed Jun 10 14:48:13 2020 +0200
+
+    docs: README update
+
+[33mcommit 98f8b677edb96f9175b7d4c20370c3d6744543bd[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed Jun 10 10:27:40 2020 +0200
+
+    feat: add query parameters to Users view
+
+[33mcommit 8e4fbc2aa8786b00a004282260c52986e1cd2430[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Mon Jun 8 13:58:51 2020 +0200
+
+    refactor: update icons to version 2, rtl fixes
+
+[33mcommit 1df8c15030d45779f6adc5031153eaff09701d97[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Mon Jun 1 18:34:07 2020 +0200
+
+    refacotor: template updates
+
+[33mcommit 1777a092f6444497120e85c8852a1e4779640e71[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 16:52:58 2020 +0200
+
+    fix: fix Icons views
+
+[33mcommit 9fed168a534b88cb27371d6364b922418a5a13b4[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 16:45:37 2020 +0200
+
+    refactor: optimize icon bundle size, update icons
+
+[33mcommit 8c0deeed169267155323a5b6bdbbdfaf8a856a41[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 10:40:33 2020 +0200
+
+    refactor: turn logos extensions from svg to js
+
+[33mcommit 75138b0d0340cc21d58bcc2f800f042f86e54346[m
+Author: woothu <32914662+woothu@users.noreply.github.com>
+Date:   Wed May 27 10:18:26 2020 +0200
+
+    refactor: update folder casing to kebab-case
+
+[33mcommit cb4433a3e33cb943bc1f47199110ead28fab517

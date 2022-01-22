@@ -1,0 +1,201 @@
+select::-ms-expand {
+  display: none;
+}
+
+.charBar svg[xmlns] foreignObject {
+  overflow: visible;
+}
+
+.charBar svg[xmlns] {
+  overflow: visible;
+}
+
+.wrap-input {
+  position: relative;
+  margin: 18px 0;
+}
+
+#chartPie {
+  width: 100%;
+}
+
+.react-datepicker__month-text {
+  padding: 10px 12px;
+}
+
+#titleChart {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#titleChart h4 {
+  font-size: 1.2rem;
+}
+
+@media only screen and (max-width: 1000px) {
+  .react-datepicker__triangle {
+    transform: translate3d(110px, 0px, 0px) !important;
+  }
+
+  .react-datepicker-popper {
+    /* transform: translate3d(80px, 77px, 0px) !important; */
+    inset: initial !important;
+    top: 0 !important;
+    left: -70px !important;
+  }
+}
+
+/* .table tbody tr:not([class="p-0"]):nth-of-type(odd) {
+  background-color: rgba(0, 0, 21, 0.05);
+} */
+
+/* .table tbody tr:nth-of-type(4n + 1) {
+  background-color: rgba(0, 0, 21, 0.05);
+} */
+
+.react-datepicker__input-container {
+  width: fit-content !important;
+}
+
+label {
+  font-size: 18px;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.btn-outline-secondary:not(:disabled):not(.disabled):active,
+.btn-outline-secondary:not(:disabled):not(.disabled).active {
+  color: white !important;
+  background-color: #321fdb !important;
+  border-color: #ced2d8;
+}
+
+@media screen and (min-width: 414px) {
+  .rangeTime {
+    display: flex;
+    width: 100%;
+  }
+}
+
+// for ios
+select,
+input {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
+.react-datepicker__navigation-icon::before,
+.react-datepicker__year-read-view--down-arrow,
+.react-datepicker__month-read-view--down-arrow,
+.react-datepicker__month-year-read-view--down-arrow {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
+.react-datepicker__navigation {
+  -webkit-appearance: none;
+  border-radius: 0;
+}
+
+.spinner {
+  width: 100%;
+  height: 100%;
+}
+
+.spinner > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 500px) {
+  #chartPie .apexcharts-legend.apexcharts-align-center.position-bottom {
+    width: 85%;
+    left: 34px !important;
+  }
+}
+
+.container_list_inputRoad ul {
+  padding: 16px;
+}
+
+.container_list_inputRoad li {
+  list-style: none;
+  margin-top: 24px;
+}
+
+.container_list_declareRoad ul {
+  padding: 0px;
+}
+
+.container_list_declareRoad li {
+  list-style: none;
+  margin-bottom: 24px;
+}
+
+@media (max-width: 400px), (max-height: 550px) {
+  .react-datepicker__portal .react-datepicker__day-name,
+  .react-datepicker__portal .react-datepicker__day,
+  .react-datepicker__portal .react-datepicker__time-name {
+    width: 2.5rem !important;
+    line-height: 2.5rem !important;
+  }
+}
+
+.titleNavBar {
+  font-size: 20px;
+  margin: 0;
+  height: fit-content;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+.onFocusAutoComplete {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 1999;
+}
+
+.move-top {
+  position: absolute;
+  width: 98%;
+  top: 10px;
+  left: 50%;
+  z-index: 1500;
+  transform: translate(-50%, 0);
+  visibility: visible;
+}
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.inputHeader {
+  text-align: center;
+}
+
+.addIntoListModal .modal-header {
+  background-color: #3f51b5;
+}
+
+.addIntoListModal .modal-content {
+  border-color: #3f51b5;
+}
+
+.addIntoListModal .btn-info {
+  border-color: #3f51b5;
+  background-color: #3f51b5;
+}
+
+.addIntoListModal .btn-info:not(:disabled):not(.disabled):active {
+  border-color: #3f51b5;
+  background-color: #3f51b5;
+}
+
+.addIntoListModal .btn-info:focus {
+  box-shadow: 0 0 0 0.2rem rgb(82 105 255 / 50%);
+}
